@@ -10,4 +10,4 @@ A simple Android app built with Jetpack compose to demonstrate their usage.
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/utpal-barman/Weather-Compose-Android/develop/readme/readme-image.png" width="250px"/>
+<img src="https://raw.githubusercontent.com/utpal-barman/Weather-Compose-Android/develop/readme/readme-image.png" width="300px"/>
