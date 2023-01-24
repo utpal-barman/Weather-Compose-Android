@@ -10,7 +10,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import dagger.hilt.android.AndroidEntryPoint
-import io.github.utpal_barman.weatherandroid.presentation.home.HomeTopBanner
+import io.github.utpal_barman.weatherandroid.presentation.features.home.HomeTopBanner
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package io.github.utpal_barman.weatherandroid.domain.module
+package io.github.utpal_barman.weatherandroid.presentation.module
 
 import android.content.Context
 import dagger.Module

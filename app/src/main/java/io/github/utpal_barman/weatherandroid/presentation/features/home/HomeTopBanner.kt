@@ -1,4 +1,4 @@
-package io.github.utpal_barman.weatherandroid.presentation.home
+package io.github.utpal_barman.weatherandroid.presentation.features.home
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
